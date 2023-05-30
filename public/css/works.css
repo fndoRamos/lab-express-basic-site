@@ -1,0 +1,48 @@
+body {
+  background-image: url(/images/backgroundWorks.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+section {
+  background-color: rgba(20, 69, 13, 0.5);
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  text-shadow: rgba(192, 154, 1, 0.617) 1px 0 10px;
+}
+
+p a {
+  border: 2px solid black;
+  background-color: rgba(0, 0, 0, 0.661);
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+ol {
+  padding-left: 30vw;
+  padding-right: 30vw;
+}
+
+li {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+img {
+  width: auto;
+  height: 500px;
+  border-radius: 20px;
+}
